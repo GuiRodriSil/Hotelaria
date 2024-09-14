@@ -1,0 +1,50 @@
+.linha{
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    border: solid azure;
+    border-radius: 0.5cm;
+    padding: 20px;
+    background-color: azure;
+    box-shadow: 0 4px 8px black;
+}
+.botao{
+    background-color: blue;
+    color: white;
+    border-radius: 0.2cm;
+    width: 150px;
+    height: 33px;
+}
+.botao:hover{
+    color: blue;
+    background-color: white;
+}
+img{
+    border-radius: 5%;
+}
+.texto{
+    margin-left: 2%;
+}
+.infobot{
+    margin-left: 40%;
+}
+.Bhotel{
+    background-color: blue;
+    color: white;
+    border-radius: 1cm;
+    width: 100px;
+    height: 40px;
+}
+.Bhotel:hover{
+    background-color: white;
+    color: blue;
+}
+.bg{
+    background-color: azure;
+    box-shadow: 0 4px 8px black;
+}
+body{
+    background-image: url(https://www.segueviagem.com.br/wp-content/uploads/2022/01/Praia-da-Azeda-Buzios-Rio-de-Janeiro-shutterstock_401011393.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
