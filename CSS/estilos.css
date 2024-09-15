@@ -1,0 +1,101 @@
+
+
+body{
+    font-family:  Arial, sans-serif;;
+}
+
+.botao{
+    background-color: rgb(192, 197, 195);  
+    border: none;
+}
+.logo{
+    font-size: 18px;
+  
+}
+.menu{
+    margin-left: 10px;
+    text-decoration: none;
+    color:red;
+}
+.datas{
+    background-color: #00A3FF;
+    border-radius: 20px;
+}
+h1{
+    color: white;
+    margin-left: 30px;
+}
+.ida-volta{
+    margin-left: 300px;
+    margin-top: -43px;   
+}
+.azul{
+    border-radius: 20px;
+    background-color: #8fcef8;
+   
+}
+.branco{
+    border-radius:20px ; 
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+.buscas {
+    background-color: #00A3FF;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.buscas h2 {
+    color: white;
+}
+
+.resultados {
+    display: flex;
+    justify-content: center;
+    gap: 20px; /* Espaçamento entre as caixas */
+}
+
+.card {
+    background-color: #00A3FF;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+    position: relative;
+    width: 300px; /* Tamanho das caixas */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para dar destaque */
+}
+
+.imagem-card {
+    width: 150px; /* Define a largura da imagem */
+    border-radius: 10px;
+}
+
+.info {
+    padding-left: 10px;
+    color: black;
+}
+
+.tab {
+    position: absolute;
+    top: -10px;
+    right: 10px;
+    background-color: white;
+    width: 50px;
+    height: 25px;
+    border-radius: 10px 10px 0 0;
+}
+
+.titulo {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+.taai{
+    display:flex;
+    justify-content: center;
+}
+
+
